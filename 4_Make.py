@@ -7,3 +7,5 @@ Output the returned result as part of a sentence.
 
 
 '''
+
+print("hello!")
